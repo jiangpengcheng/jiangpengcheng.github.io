@@ -252,7 +252,7 @@ legend {
 .intro-header {
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #808080;
+    background-color: rgba(0, 0, 0, 0.16);
     background-attachment: scroll;
     background-size: cover;
     height: 300px;
